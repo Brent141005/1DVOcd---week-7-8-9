@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    font-size: 24px;
+    margin: 20px;
+}
+
+#woord1 {
+    position: relative;
+    top: -20px;
+
+}
+#woord2 {
+    position: relative;
+    top: 20px;
+}
+#woord3 {
+    position: relative;
+    left: -20px;
+}
+#woord4 {
+    position: relative;
+    top: -20px;
+    left: -20px;
+    color: #f00;
+}

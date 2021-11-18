@@ -1,0 +1,24 @@
+* {
+    
+}
+#deel1 {
+    float: left;
+    width: 400px;
+    padding: 20px;
+    border: 1px solid #000;
+    background-color: #cccccc;
+
+}
+
+#deel2 {
+    float: right;
+    width: 400px;
+    padding: 20px;
+    border: 1px solid #000;
+    background-color: #cccccc;
+}
+ #deel3 {
+     position: absolute;
+     top: 0;
+     left: 0;
+ }

@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+section {
+  background-color: #ccc;
+    padding: 10px;
+    width: 300px;
+    border: 1px solid #000;
+    position: relative;
+}
+
+#box2 {
+    top: -50px;
+    left: 50px;
+}
+#box3 {
+    top: -100px;
+    left: 100px;
+    /*bottom: 100px;*/
+    /*right: -100px;*/
+}

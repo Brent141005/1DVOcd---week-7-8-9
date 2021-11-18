@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+#deel1 {
+    min-width: 600px;
+    height: 150px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #f00;
+    background-color: #eee;
+
+}
+#deel2 {
+    width: 600px;
+    height: 150px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #f00;
+    background-color: #ccc;
+}
+#deel3 {
+    max-width: 600px;
+    height: 150px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #f00;
+    background-color: #aaa;
+}
+#deel4 {
+    width: 600px;
+    height: 150px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #f00;
+    background-color: #999;
+}
